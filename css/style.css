@@ -1,0 +1,23 @@
+h1 {
+	color: #0099aa;
+	text-align: center;
+}
+
+hr {
+	size: 20px;
+	color: #aa0000;
+	width: 50%;
+}
+
+p {
+	text-align: center;
+}
+ 
+li {
+margin-top: 10pt;
+margin-left: 45%;
+ }
+
+ div {
+	 text-align: left;
+ }
