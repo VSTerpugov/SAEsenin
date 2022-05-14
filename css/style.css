@@ -4,12 +4,13 @@ h1 {
 }
 
 hr {
-	size: 20px;
-	color: #aa0000;
-	width: 50%;
+	border: none;	
+	background-color: #0099aa;
+	color: #0099aa;	
+	height: 2px;
 }
 
-p {
+/*p {
 	text-align: center;
 }
  
@@ -22,4 +23,6 @@ margin-left: 45%;
 	 text-align: left;
  }
 
- .poem {margin-left: 20%}
+ .poem {margin-left: 20%}*/
+
+
